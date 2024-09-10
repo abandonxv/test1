@@ -3,3 +3,4 @@ torch
 diffusers
 streamlit-jupyter
 transformers
+mini-stable-diffusion
